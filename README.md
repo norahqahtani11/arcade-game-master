@@ -11,8 +11,18 @@ In this project we have a Player and Enemies. The goal is the player must reach 
 
 Moving:
 ----------
-The player can move up, down, left and right. The enemies move in different speeds.
 
-To Play the Game:
+
+- The player can be moved with the arrow keys, can move up, down, left and right. 
+
+- The enemies move in different speeds.
+
+
+Demo:
+-------
+![images/demo.png](images/demo.png)
+
+To play the game:
 ---------------
-Downloading all the file 
+To play the game you must run the index.html file in a browser.
+> [Check it in github](https://github.com/norahqahtani11/arcade-game-master).
